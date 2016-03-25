@@ -1,0 +1,6 @@
+<div id="texto">
+	<h1>Ubicación</h1>
+	<p>El Hospital “Dr. José Gregorio Hernández”, se ubica en la Av. 23 de Enero de la Ciudad de Puerto Ayacucho. Como ya ha sido resaltado es la única institución hospitalaria dentro del sistema de salud del Estado Amazonas, hecho que lo convierte en centro de referencia de todos los municipio del Estado e incluso de zonas de otros Estados y de países vecinos.</p>
+	<p>Comienza a funcionar como centro de salud en la década de los 50, ameritando con el transcurrir del tiempo expandirse funcional y estructuralmente para poder cubrir la demanda de sus servicios por parte de la población.</p>
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7940.660820260239!2d-67.62495876290151!3d5.665270309574013!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e75ec4c2cf75169%3A0xaadde13510de045c!2sDr.+Jos%C3%A9+Gregorio+Hern%C3%A1ndez!5e0!3m2!1ses-419!2sve!4v1445548106155" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>
