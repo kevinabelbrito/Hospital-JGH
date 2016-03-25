@@ -1,0 +1,37 @@
+#pagination
+{
+	margin: auto;
+	margin-top: -3em;
+	margin-bottom: 6em;
+	text-align: center;
+	width: 500px;
+}
+
+#pagination a
+{
+	background-color:  #FFFFFF;
+	border-radius: 0.4em;
+	color: #000;
+	padding: 0.5em;
+	text-decoration: none;
+	transition: all 0.5s;
+}
+
+#pagination a:hover
+{
+	background-color: #2f2f2f;
+	color: #FFF;
+}
+
+#pagination .active
+{
+	background-color: #eb3737;
+	border-radius: 0.4em;
+	color: #FFFFFF;
+	padding: 0.5em;
+}
+
+#pagination a, #pagination .active
+{
+	margin: 0 0.3em;
+}
